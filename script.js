@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
             const audioFiles = [
-                'audios/When Balon D'or.mp3', 
+                'audios/When Balon Dor.mp3', 
                 'audios/Slave - UnoTheActivist.mp3', 
                 'audios/ANXIETY - Lil Darkie.mp3', 
                 'audios/Skin - Otuka.mp3',
