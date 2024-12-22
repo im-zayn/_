@@ -1,10 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
             const audioFiles = [
-                'audios/When You Gone - LUKEBIKE & Lil Darkie.mp3', 
-                'audios/ELECTRIC DANDELIONS - Lil Darkie.mp3', 
+                'audios/When Balon D'or.mp3', 
+                'audios/Slave - UnoTheActivist.mp3', 
                 'audios/ANXIETY - Lil Darkie.mp3', 
-                'audios/just a little bit longer - Lil Darkie & CHRIST DILLINGER.mp3', 
-                'audios/where is darkie - Lil Darkie.mp3', 
+                'audios/Skin - Otuka.mp3',
+                'audios/I did it first x Escape - Nemzzz.mp3',
+                'audios/Gatekeep - Playboi Carti.mp3',
             ];
 
             let currentAudioIndex = 0;
